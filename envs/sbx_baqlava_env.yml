@@ -1,4 +1,4 @@
-name: sbx_template
+name: sbx_baqlava
 channels:
   - conda-forge
   - bioconda
